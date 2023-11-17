@@ -9,13 +9,13 @@ This folder contains 3 notebook files.
 # STEP 1 - INSTALLING REQUIRED LIBRARIES
 ## Please run the following commands in your terminal to ensure all the relevant libraries are installed:
 
-pip install opencv-python
-pip install numpy
-pip install matplotlib
-pip install torch torchvision
-pip install scikit-learn
-pip install pandas
-pip install mediapipe
+- pip install opencv-python
+- pip install numpy
+- pip install matplotlib
+- pip install torch torchvision
+- pip install scikit-learn
+- pip install pandas
+- pip install mediapipe
 
 # STEP 2 - Running the Inference Examples for NetConv (CNN) Model
 Please follow these steps in order: 
