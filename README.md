@@ -4,7 +4,7 @@ This folder contains 3 notebook files.
 2. Our second custom model, KeyPointsNet, which is located at: keyPoint_Model/KeyPointsNet.ipynb
 3. Our third program, to extract keypoints, which is located at: keyPoint_Model/KeypointsGenerator.ipynb
 
-# IMPORTANT: YOU DO NOT NEED TO CHANGE ANY PATH RELATED VARIABLES. OUR ENTIRE CODEBASE IS SETUP FOR RELATIVE PATH EXECUTION.
+# IMPORTANT: YOU DO NOT NEED TO CHANGE ANY PATH RELATED VARIABLES. OUR ENTIRE CODEBASE IS SETUP FOR RELATIVE PATH EXECUTION. THIS MEANS THAT ONCE YOU DOWNLOAD THE FOLDER YOU CAN RUN THE CODE DIRECTLY AND DO NOT NEED TO CHANGE ANYTHING.
 
 # STEP 1 - INSTALLING REQUIRED LIBRARIES
 ## Please run the following commands in your terminal to ensure all the relevant libraries are installed:
